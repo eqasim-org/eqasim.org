@@ -1,0 +1,3 @@
+# eqasim-synpop
+
+**The website has recently been updated.** Some more information about the synthetic population part of eqasim will be available here soon. For the time being, have a look at the [repository](https://github.com/eqasim-org/eqasim-france) of our case for **France**, which is our reference implementation, and its respective [documentation](https://eqasim-org.github.io/eqasim-france/).
