@@ -29,3 +29,5 @@ html_static_path = ['_static']
 html_title = "eqasim"
 
 extensions = ["myst_parser"]
+
+html_style = 'css/custom.css'

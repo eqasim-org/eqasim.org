@@ -1,7 +1,7 @@
 # The eqasim workshop 2025
 
 ```{important} Thank you for participating!
-The workshop has been a great success with over 60 registered participants (about 30 on site) from 20+ organizations in 10+ countries ([participation statistics](_static_/eqasim_workshop_2025_participation.pdf)). Thanks to everyone for participating and see you next year!
+The workshop has been a great success with over 60 registered participants (about 30 on site) from 20+ organizations in 10+ countries ([participation statistics](_static/workshop/eqasim_workshop_2025_participation.pdf)). Thanks to everyone for participating and see you next year!
 ```
 
 ```{list-table}
