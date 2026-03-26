@@ -6,6 +6,7 @@ hide-toc: true
 
 The *eqasim framework* helps you set up agent-based transport simulations based on [MATSim](https://matsim.org/) in a standardized way.
 
+
 ```{image} _static/synpop.png
 :alt: Flows from a synthetic population
 :align: right
@@ -27,6 +28,8 @@ Read more about {doc}`eqasim-synpop <synpop>`!
 **Agent-based simulations** allow to explore new technologies, modes of transport, public policies, social trends and more including their economic, ecological and social impacts. We provide a streamlined distribution of the [MATSim](https://matsim.org/) framework with a couple of individual improvements and simplifications to quickly bootstrap such an agent-based simulation for the cases cited above.
 
 Read more about {doc}`eqasim-java <java>`!
+
+**Visit us** us on [Discord](https://discord.gg/ZBTEkWvt6y) or [Framateam](https://framateam.org/population-synthetique/channels/groupe_suivi_eqasim) (French).
 
 
 ```{toctree}

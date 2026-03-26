@@ -1,5 +1,8 @@
 # community
 
+- [Discord](https://discord.gg/ZBTEkWvt6y) channel for the international community
+- [Framateams](https://framateam.org/population-synthetique/channels/groupe_suivi_eqasim) channel for the French community
+
 ## Maintainers and major contributors
 
 The project is mainly maintained and developed further by the entities listed here.
