@@ -4,8 +4,11 @@ hide-toc: true
 
 # eqasim
 
-The *eqasim framework* helps you set up agent-based transport simulations based on [MATSim](https://matsim.org/) in a standardized way.
+```{important} Registration is open for the 
+{doc}`the next eqasim workshop <workshop-2026>`, 30 November 2026, in Paris!
+```
 
+The *eqasim framework* helps you set up agent-based transport simulations based on [MATSim](https://matsim.org/) in a standardized way.
 
 ```{image} _static/synpop.png
 :alt: Flows from a synthetic population

@@ -2,8 +2,9 @@
 
 ## International
 
-{doc}`The eqasim workshop <workshop-2025>` is organized every year by IRT SystemX to discuss the roadmap and latest developments around eqasim. The last workshop took place on **8 December 2025**.
+{doc}`The eqasim workshop <workshop-2026>` is organized every year by IRT SystemX to discuss the roadmap and latest developments around eqasim. The next workshop takes place on **30 November 2026**.
 
+- {doc}`eqasim workshop 2026 <workshop-2026>`
 - {doc}`eqasim workshop 2025 <workshop-2025>`
 - [eqasim workshop 2024](_static/workshop/eqasim_workshop_2024.pdf)
 - eqasim workshop 2023 (October 2023)
