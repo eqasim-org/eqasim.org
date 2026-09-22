@@ -10,7 +10,7 @@
   - Université Gustave Eiffel, Marne-là-Vallée, Building **Bienvenüe**, Room **B019**
   <br /> [12 Boulevard Copernic, 77420 Champs-sur-Marne](https://maps.app.goo.gl/VyLQ7VnEjp5kzvS2A)
 * - Access
-  - From Paris, take **RER B** to **Noisy-Champs**
+  - From Paris, take **RER A** to **Noisy-Champs**
   <br /> Check the [map](https://maps.app.goo.gl/VyLQ7VnEjp5kzvS2A) for the exact location of the entrance to the campus.
 * - Connection 	
   - Remote participation on Teams
