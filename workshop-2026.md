@@ -23,25 +23,45 @@ Please [**register for the workshop**](https://framaforms.org/eqasim-workshop-20
 
 ## Agenda
 
+Presentations with * have draft titles that will be updated.
+
 ```{list-table}
 :header-rows: 0
 :align: left
 
-* - 10h00 - 10h30
+* - **10h00 - 10h20**
   - **Introduction**
+* - Sebastian Hörl (IRT SystemX)
+  - Welcome & recent developments in France
+* - **10h20 - 11h20**
+  - **General**
+* - Milos Balac (ETH Zurich)
+  - Advances on eqasim for Switzerland
+* - Tarek Chouaki (IRT SystemX)
+  - File caching proxy and Jenkins depoyment*
+* - Pierre Fréval (Societé des Grand Projets)
+  - Output and methodology documentation
+* - **11h20 - 12h00**
+  - **Use cases in energy**
+* - Yoann Chiche (MINES Paris)
+  - Designing electric charging infrastructures based on daily activity sequences*
+* - Mattia Samorè (Univ. Padua)
+  - From eqasim populations to grid-constrained EV charging: a Lyon case study
+* - **12h00 - 13h00**
+  - **Break**
 * - 
-  - tba
-* - 10h30 - 12h00
-  - **Morning session**
-* - 
-  - tba
-* - 12h00 - 13h00
-  - **Light lunch**
-* - 13h00 - 14h00
-  - **Afternoon session**
-* - 
-  - tba
-* - 14h00 - end
+  - Lunch
+* - **13h00 - 14h20**
+  - **Use cases in different transport simulators**
+* - Alix Ngari Lendoye (EIGSI)
+  - Connecting eqasim and SUMO*
+* - Alexandre TISSANDIER (Argonne, MINES Paris)
+  - Simulating an eqasim population for Bordeaux in POLARIS*
+* - Lucas Javaudin (LVMT, IPP)
+  - Modeling intra-household joint travel with eqasim and METROPOLIS2
+* - Vincent Leblond, Marie Laurent (tellae)
+  - From a coupling of eqasim with mobile phone data in Madrid to a traffic assignment with aequilibrae
+* - **14h20 - end**
   - **Discussion**
 * - 
   - Open discussion on next steps, opportunities for collaboration, etc. 
