@@ -56,7 +56,7 @@ Presentations with * have draft titles that will be updated.
 * - Alix Ngari Lendoye (EIGSI)
   - Connecting eqasim and SUMO*
 * - Alexandre TISSANDIER (Argonne, MINES Paris)
-  - Simulating an eqasim population for Bordeaux in POLARIS*
+  - Simulating an eqasim population in POLARIS
 * - Lucas Javaudin (LVMT, IPP)
   - Modeling intra-household joint travel with eqasim and METROPOLIS2
 * - Vincent Leblond, Marie Laurent (tellae)
