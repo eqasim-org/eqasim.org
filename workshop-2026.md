@@ -31,20 +31,20 @@ Presentations with * have draft titles that will be updated.
 
 * - **10h00 - 10h20**
   - **Introduction**
-* - Sebastian Hörl (IRT SystemX)
+* - Sebastian Hörl (IRT SystemX, GRETTIA)
   - Welcome & recent developments in France
 * - **10h20 - 11h20**
   - **General**
-* - Milos Balac (ETH Zurich)
+* - Milos Balac (ETH Zurich, CSFM)
   - Advances on eqasim for Switzerland
-* - Tarek Chouaki (IRT SystemX)
-  - File caching proxy and Jenkins depoyment*
+* - Tarek Chouaki (IRT SystemX, LVMT)
+  - File caching proxy and Jenkins depoyment
 * - Pierre Fréval (Societé des Grand Projets)
   - Output and methodology documentation
 * - **11h20 - 12h00**
   - **Use cases in energy**
-* - Yoann Chiche (MINES Paris)
-  - Designing electric charging infrastructures based on daily activity sequences*
+* - Yoann Chiche (MINES Paris PSL)
+  - Exploring Spatial Variability in Aggregated Electric Vehicle Charging Load Profiles
 * - Mattia Samorè (Univ. Padua)
   - From eqasim populations to grid-constrained EV charging: a Lyon case study
 * - **12h00 - 13h00**
