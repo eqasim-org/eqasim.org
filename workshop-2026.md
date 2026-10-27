@@ -23,8 +23,6 @@ Please [**register for the workshop**](https://framaforms.org/eqasim-workshop-20
 
 ## Agenda
 
-Presentations with * have draft titles that will be updated.
-
 ```{list-table}
 :header-rows: 0
 :align: left
@@ -54,7 +52,7 @@ Presentations with * have draft titles that will be updated.
 * - **13h00 - 14h20**
   - **Use cases in different transport simulators**
 * - Alix Ngari Lendoye (EIGSI)
-  - Connecting eqasim and SUMO*
+  - Integrating eqasim Synthetic Populations and Activity Chains into SUMO
 * - Alexandre TISSANDIER (Argonne, MINES Paris)
   - Simulating an eqasim population in POLARIS
 * - Lucas Javaudin (LVMT, IPP)
